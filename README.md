@@ -3,6 +3,7 @@ Resources for the DFIR Module
 
 <ul>
     <li><a href="https://viewdns.info/">ViewDNS - Perform Reverse IP Look Ups and More.</a></li>
+    <li><a href="https://www.volatilityfoundation.org/">Volatility Foundation</a></li>
     <li><a href="https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples">Download More Memory Dumps to Practice Analysis With</a></li>
 </ul>
 
