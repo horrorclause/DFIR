@@ -18,6 +18,12 @@ Resources for the DFIR Module
     <li><a href="https://www.sans.org/tools/">Repo of SANS Cybersecurity Tools</a></li>
 </ul>
 
+## :video_game:Practice
+
+<ul>
+    <li><a href="https://blueteamlabs.online">Blue Team Labs</a></li>
+</ul>
+
 
 ## :hammer:Tools
 
