@@ -8,11 +8,13 @@ Resources for the DFIR Module
 </ul>
 
 
-## :detective:Open Threat Exchanges
+## :detective:Open Threat Exchanges & Research
 
 <ul>
     <li><a href="https://socradar.io/the-ultimate-list-of-free-and-open-source-threat-intelligence-feeds/">List of Free Open Source Intelligence Feeds</a></li>
     <li><a href="https://otx.alienvault.com/">Alien Vault Open Threat Exchange</a></li>
+    <li><a href="https://attack.mitre.org/">MITRE's ATT&CK Knowledge Base</a></li>
+    <li><a href="https://mitre-attack.github.io/attack-navigator/">MITRE's ATT&CK Navigator</a></li>
 </ul>
 
 
