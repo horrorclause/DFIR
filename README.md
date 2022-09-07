@@ -8,7 +8,15 @@ Resources for the DFIR Module
 </ul>
 
 
-## :detective:SANS Resources
+## :detective:Open Threat Exchanges
+
+<ul>
+    <li><a href="https://socradar.io/the-ultimate-list-of-free-and-open-source-threat-intelligence-feeds/">List of Free Open Source Intelligence Feeds</a></li>
+    <li><a href="https://otx.alienvault.com/">Alien Vault Open Threat Exchange</a></li>
+</ul>
+
+
+## :books:SANS Resources
 
 <ul>
     <li><a href="https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/">SANS Cheat Sheets</a></li>
