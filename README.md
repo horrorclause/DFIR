@@ -8,6 +8,11 @@ Resources for the DFIR Module
 </ul>
 
 
+### MITRE Certification Paths:
+<ul>
+    <li><a href="https://mad.mitre-engenuity.org/">MITRE ATT&CK Defender™ Training and Certifications</a></li>
+</ul>
+
 ## :detective:Open Threat Exchanges & Research
 
 <ul>
