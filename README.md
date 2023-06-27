@@ -6,6 +6,7 @@ Resources for the DFIR Module
     <li><a href="https://www.volatilityfoundation.org/">Volatility Foundation</a></li>
     <li><a href="https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples">Download More Memory Dumps to Practice Analysis With</a></li>
     <li><a href="https://www.caine-live.net/">Download CAINE</a></li>
+    <li><a href="https://github.com/mandiant/flare-vm">Download FLARE</a></li>
 </ul>
 
 
