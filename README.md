@@ -7,6 +7,7 @@ Resources for the DFIR Module
     <li><a href="https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples">Download More Memory Dumps to Practice Analysis With</a></li>
     <li><a href="https://www.caine-live.net/">Download CAINE</a></li>
     <li><a href="https://github.com/mandiant/flare-vm">Download FLARE</a></li>
+    <li><a href="https://www.sans.org/tools/sift-workstation/">Download SIFT</a></li>
     <li><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite">Download the SysInternals Suite</a></li>
 </ul>
 
