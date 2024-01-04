@@ -21,6 +21,13 @@ Resources for the DFIR Module
     <li><a href="https://mitre-attack.github.io/attack-navigator/">MITRE's ATT&CK Navigator</a></li>
 </ul>
 
+## 👓:Dynamic Analysis OSINT Sites
+
+<ul>
+    <li><a href="https://www.joesandbox.com/#windows">Joe SandBox</a></li>
+    <li><a href="https://app.any.run/">App Any Run</a></li>
+    <li><a href="https://www.hybrid-analysis.com/">Hybrid-Analysis</a></li>
+</ul>
 
 ## :books:SANS Resources
 
